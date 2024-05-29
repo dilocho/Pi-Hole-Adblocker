@@ -1,18 +1,15 @@
 # Pi-Hole-Adblocker
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 To enable a ad blocker on all devices in a home network using Pi-Hole. 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Setting up Pi-hole allowed me to interact with my DHCP configuration and see practically how its use is within the router
 - Utilizing hardware appropriate to the application, unfortunately my Raspberry Pi was overloaded and couldn't handle the traffic going through it and had to be shut off 
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 Hardware: 
 - Rapsberry Pi 
 
