@@ -4,11 +4,6 @@
 
 To enable a ad blocker on all devices in a home network using Pi-Hole. 
 
-### Skills Learned
-
-- Setting up Pi-hole allowed me to interact with my DHCP configuration and see practically how its use is within the router
-- Utilizing hardware appropriate to the application, unfortunately my Raspberry Pi was overloaded and couldn't handle the traffic going through it and had to be shut off 
-
 ### Tools Used
 Hardware: 
 - Rapsberry Pi 
@@ -56,6 +51,13 @@ Before setting up Ad Blocker I had to install the software through my laptop on 
 ![image](https://github.com/dilocho/Pi-Hole-Adblocker/assets/38048735/6947d25f-7716-4f5e-bca5-b5030e872cbf)
 *Ref 6. Ad Blocker Test on device after Pi Hole Enabled* 
 
+
+
+
+### Skills Learned
+
+- Setting up Pi-hole allowed me to interact with my DHCP configuration and see practically how its use is within the router
+- Utilizing hardware appropriate to the application, unfortunately my Raspberry Pi was overloaded and couldn't handle the traffic going through it and had to be shut off 
 
 ## References
 1. https://www.raspberrypi.com/tutorials/running-pi-hole-on-a-raspberry-pi/
